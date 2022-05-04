@@ -1,4 +1,4 @@
-# Site "Jogo da Adivinhação"
+# Site "Jogo da Adivinhação" 🔮
 
 ## 📝 Descrição
 
