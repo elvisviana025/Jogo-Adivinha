@@ -14,9 +14,10 @@ O jogo pede que o usuário digite um número de 0 a 5. Enquanto o usuário não 
 
 ## 🎨 Design
 ### Paleta de cores:
-* ![#FF6CFF](https://via.placeholder.com/15/FF6CFF/000000?text=+) `#FF6CFF` rosa
-* ![#174904](https://via.placeholder.com/15/174904/000000?text=+) `#174904` verde
-* ![#1F1E1D](https://via.placeholder.com/15/F2E1C2/000000?text=+) `#1F1E1D` preto
+
+- ![#FF6CFF](https://via.placeholder.com/15/FF6CFF/FF6CFF.png) `#FF6CFF` rosa
+- ![#174904](https://via.placeholder.com/15/174904/174904.png) `#174904` verde
+- ![#1F1E1D](https://via.placeholder.com/15/1F1E1D/1F1E1D.png) `#1F1E1D` preto
 
 ### Fonte:
 * 'Arial'
